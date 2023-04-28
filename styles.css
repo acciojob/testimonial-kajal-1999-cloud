@@ -16,6 +16,9 @@
 	justify-content: space-between;	
 	margin: 10px;
 	width: 97%;
+	text-align: right;
+	font-style: italic;
+	
 }
 
 .container .p-tag2{
@@ -23,10 +26,9 @@
 	background-color: white;
 	justify-content: space-between;	
 	margin: 10px;
-/* 	font size: 10px; */
-	padding: 
 	width: 97%;
-		
+	text-align: right;
+	font-style: italic;
 }
 
 .container p{
